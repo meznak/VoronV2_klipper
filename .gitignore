@@ -1,4 +1,6 @@
 *.log
+*.bkp
+*.bak
 .fluidd.json
 .mainsail.json
 .variables.stb
